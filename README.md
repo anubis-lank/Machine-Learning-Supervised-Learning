@@ -1,4 +1,4 @@
-# Supervised Machine Learning – Classification or Regression 80 marks
+# Supervised Machine Learning – Classification or Regression
 Case Study:
 
 - You have been hired as a data analyst to work on a machine learning project for a multinational insurance company
